@@ -1,0 +1,4 @@
+classes=1
+train=./customdata/custom.txt
+test=./customdata/custom.txt
+names=./customdata/custom.names
