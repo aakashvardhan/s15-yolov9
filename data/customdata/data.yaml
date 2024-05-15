@@ -1,6 +1,6 @@
 train: ./data/customdata/custom.txt
 val: ./data/customdata/custom.txt
-test=./data/customdata/custom.txt
+test: ./data/customdata/custom.txt
 
 nc: 1
 names: ["tiger"]
