@@ -1,6 +1,6 @@
-train: ./data/data/customdata/custom.txt
-val: ./data/data/customdata/custom.txt
-test: ./data/data/customdata/custom.txt
+train: ./data/data/customdata/train/images
+val: ./data/data/customdata/train/images
+test: ./data/data/customdata/train/images
 
 nc: 1
 names: ["tiger"]
